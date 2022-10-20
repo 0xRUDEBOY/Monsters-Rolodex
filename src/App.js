@@ -106,6 +106,4 @@ const App = () => {
 //   }
 // }
 
-const gang = "TESTING PUSH TO SEE IF THIS SHIT WORKS";
-
 export default App;
